@@ -531,7 +531,7 @@ $$
     \hline
                     &                      & x_N                      \\  
     \hline
-                    & 1^Tb_L               & 1^T(A_B^{-1}A_N)_L       \\
+                    & 1^T(A_B^{-1}b)_L               & 1^T(A_B^{-1}A_N)_L       \\
     \hline
     x_{B_{\sim L}}= & (A_B^{-1}b)_{\sim L} & (A_B^{-1}A_N)_{(\sim L)} \\
     -x_{B_{L}}=     & (A_B^{-1}b)_L        & (A_B^{-1}A_N)_L          \\
